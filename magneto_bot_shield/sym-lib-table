@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name custom)(type Legacy)(uri /home/letrend/workspace/magneto_bot/kicad_db/lib/custom.lib)(options "")(descr ""))
+  (lib (name board-rescue)(type Legacy)(uri /home/letrend/workspace/iceboard/board/board-rescue.lib)(options "")(descr ""))
+  (lib (name AON7804)(type Legacy)(uri /home/letrend/workspace/magneto_bot/kicad_db/lib/AON7804.lib)(options "")(descr ""))
+)
